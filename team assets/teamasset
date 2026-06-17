@@ -1,0 +1,77 @@
+========================================================================
+                      SHE BUILDS - TEAM ASSET MAP
+========================================================================
+
+To populate the leadership team profile photos correctly, place the physical
+image files in the public directory at the respective paths indicated below.
+
+Ensure all images are in JPG/JPEG format and match the recommended aspect ratio
+and size for optimal performance.
+
+------------------------------------------------------------------------
+1. FACULTY IN-CHARGE PHOTO
+------------------------------------------------------------------------
+Member Name: Dr. Gagandeep Bhullar
+Designation: Director, Student Welfare & Alumni Affairs
+Target File Path: public/team/gagandeep-bhullar.jpg
+Recommended Ratio: 1:1 Square
+Recommended Size: 400 x 400 pixels
+
+------------------------------------------------------------------------
+2. PRESIDENT PHOTO
+------------------------------------------------------------------------
+Member Name: Disha Pathak
+Designation: President
+Target File Path: public/team/disha-pathak.jpg
+Recommended Ratio: 3:4 Vertical Portrait
+Recommended Size: 600 x 800 pixels
+
+------------------------------------------------------------------------
+3. VICE PRESIDENT PHOTO
+------------------------------------------------------------------------
+Member Name: Anvi
+Designation: Vice President
+Target File Path: public/team/anvi.jpg
+Recommended Ratio: 3:4 Vertical Portrait
+Recommended Size: 600 x 800 pixels
+
+------------------------------------------------------------------------
+4. BRANDING & PR HEAD PHOTO
+------------------------------------------------------------------------
+Member Name: Sharandeep Kaur
+Designation: Branding & PR Head
+Target File Path: public/team/sharandeep-kaur.jpg
+Recommended Ratio: 3:4 Vertical Portrait
+Recommended Size: 600 x 800 pixels
+
+------------------------------------------------------------------------
+5. COMMUNITY MANAGER PHOTO
+------------------------------------------------------------------------
+Member Name: Vanshita
+Designation: Community Manager
+Target File Path: public/team/vanshita.jpg
+Recommended Ratio: 3:4 Vertical Portrait
+Recommended Size: 600 x 800 pixels
+
+------------------------------------------------------------------------
+6. SECRETARY PHOTO
+------------------------------------------------------------------------
+Member Name: Nandini Mangla
+Designation: Secretary
+Target File Path: public/team/nandini.jpg
+Recommended Ratio: 3:4 Vertical Portrait
+Recommended Size: 600 x 800 pixels
+
+------------------------------------------------------------------------
+7. MEDIA MANAGER PHOTO
+------------------------------------------------------------------------
+Member Name: Priyanshi
+Designation: Media Manager
+Target File Path: public/team/priyanshi.jpg
+Recommended Ratio: 3:4 Vertical Portrait
+Recommended Size: 600 x 800 pixels
+
+========================================================================
+NOTE: If any photo is missing, the website displays a graceful brutalist 
+initials-based vector placeholder automatically.
+========================================================================

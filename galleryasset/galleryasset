@@ -1,0 +1,59 @@
+========================================================================
+                     SHE BUILDS - GALLERY ASSET MAP
+========================================================================
+
+To populate the masonry gallery correctly, place the physical photo files 
+in the public directory at the respective paths indicated below.
+
+------------------------------------------------------------------------
+1. ATHENA SQUAD HACKATHON PHOTO
+------------------------------------------------------------------------
+Image Tag: HACKATHONS
+Image Caption: Athena Squad in Action
+Target File Path: public/gallery/hackathon-2026.jpg
+Recommended Ratio: 1:1 Square (e.g., 800 x 800 px)
+
+------------------------------------------------------------------------
+2. VECTOR SEARCH WORKSHOP PHOTO
+------------------------------------------------------------------------
+Image Tag: WORKSHOPS
+Image Caption: Vector Search Workshop
+Target File Path: public/gallery/mongodb-workshop.jpg
+Recommended Ratio: 16:9 Landscape (e.g., 1200 x 675 px)
+
+------------------------------------------------------------------------
+3. INTERNATIONAL WOMEN'S DAY PANEL PHOTO
+------------------------------------------------------------------------
+Image Tag: CONFERENCES
+Image Caption: International Women's Day 2026
+Target File Path: public/gallery/womens-day-panel.jpg
+Recommended Ratio: 4:3 Horizontal (e.g., 1000 x 750 px)
+
+------------------------------------------------------------------------
+4. FRONTEND PEER CODING COHORT PHOTO
+------------------------------------------------------------------------
+Image Tag: BOOTCAMPS
+Image Caption: Peer-to-Peer HTML/JS Practice
+Target File Path: public/gallery/frontend-learning.jpg
+Recommended Ratio: 1:1 Square (e.g., 800 x 800 px)
+
+------------------------------------------------------------------------
+5. MENTORSHIP MEETUP PHOTO
+------------------------------------------------------------------------
+Image Tag: NETWORKING
+Image Caption: DSW Tech Mentorship Circle
+Target File Path: public/gallery/community-meetup.jpg
+Recommended Ratio: 4:5 Vertical Portrait (e.g., 800 x 1000 px)
+
+------------------------------------------------------------------------
+6. SHESHIELD PROJECT DEMONSTRATION PHOTO
+------------------------------------------------------------------------
+Image Tag: INNOVATION
+Image Caption: SHEshield Demo at PGSC
+Target File Path: public/gallery/project-display.jpg
+Recommended Ratio: 16:10 Landscape (e.g., 1200 x 750 px)
+
+========================================================================
+NOTE: If any gallery image is missing, the site loads an elegant brutalist 
+diagonal wireframe vector banner containing details of the folder destination.
+========================================================================
